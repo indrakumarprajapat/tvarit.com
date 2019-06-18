@@ -301,34 +301,30 @@
  
     <!------------------------ header start ------------------------->
     <header class="headerBg">
-        <a href="#Quality_Prediction" class="hdrscrollArrow" ><i class="icon ion-ios-arrow-dropdown"></i></a>
-       <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
+      <video poster="img/indexVideoBg.jpg" autoplay="true" muted loop>
         <source src="video/indexBg.mp4" type="video/mp4">
       </video>
-      <div class="container" >
+      <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6">
             <div class="typography">
               <div class="text-big60">
-                 <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> TALKS
+                <span class="tvarit-black">Tvarit <span class="color">AI</span> is <br class="d-none d-md-block">the best
               </div>
               <div class="text-1">
-                TO YOUR MACHINES
+                solution for smart manufacturing,<br> smart machines <br> and digital transformation
               </div>
-              <br>
+              <div class="text-2">
+                <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> TALKS TO YOUR MACHINES
+              </div>
               <ul class="ul-list">
                 <li>Understands them with our Data Science expertise</li>
                 <li>Makes them smarter using our AI Software - Automated Predictive Analytics (APA)</li>
               </ul>
               <br>
-              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">Free Trial For 30 Days</a>
+              <a href="http://cloud.tvarit.com" target="_blank" class="btn btn-round btn-shadow btn-red-grd">TRY DEMO</a>
             </div>
-            <br>
-            <div class="text-head">
-              Tvarit AI is the best solution for smart manufacturing, smart machines and digital transformation
-               </div>
           </div>
-         
         </div>
       </div>
     </header>

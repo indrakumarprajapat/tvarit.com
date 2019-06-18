@@ -10,8 +10,14 @@ only screen and (min-device-pixel-ratio: 1.5){
 
 @media (max-width:767px) {
 
+    .headerBg
+    {
+        height: auto;
+    }
     .headerBg video {
         width: 100%;
+        margin: auto;
+        position: relative;
     }
 
     .main-menu .navbar {
@@ -350,12 +356,23 @@ only screen and (min-device-pixel-ratio: 1.5){
 
     /*------------- menu css close ----------------*/
 
-
+    .typography {
+        margin-bottom: 20px;
+        top: -50px;
+        position: relative;
+    }
     .text-big60 {
-        font-size: 38px;
+        font-size: 30px;
     }
     .typography .text-1 {
-        font-size: 28px;
+        font-size: 18px;
+    }
+    .typography .text-2 {
+        font-size: 16px;
+    }
+    .typography .ul-list li {
+        margin-bottom: 15px;
+        font-size: 12px;
     }
     h3
     {

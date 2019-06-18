@@ -136,9 +136,10 @@ a,a:hover,a:visited
 
 .text-big60
 {
-    font-size: 60px;
+    font-size: 55px;
     line-height: 1;
     font-weight: 900;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 
@@ -613,7 +614,7 @@ p
     position: absolute;
     top: 0;
     right: 0;
-    width: 75%;
+    width: 80%;
     height: auto;
     z-index: -100;
     transition: 1s opacity;
@@ -633,17 +634,20 @@ p
 }
 .typography .text-1
 {
-    font-size: 34px;
+    font-size: 24px;
     font-weight: bold;
+    line-height: 1.2;
     color: #ed1b4a;
     text-transform: uppercase;
+    margin-bottom: 15px;
 }
 .typography .text-2
 {
     color: #222;
-    font-size: 60px;
+    font-size: 20px;
     line-height: 1;
     font-weight: 900;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 .typography .text-p
@@ -1802,8 +1806,6 @@ ul.accordion li a.toggle:hover {
     position: relative;
     padding: 15px;
     transition: all 0.35s;
-    height: 200px;
-    overflow:auto;
 }
 .news-content .text-sub
 {
