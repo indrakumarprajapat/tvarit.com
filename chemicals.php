@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Chemicals</title>
+        <title>CHEMIKALIEN</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -254,7 +254,8 @@ gtag('config', 'UA-143837547-1');
               </div>
               <br>
               <p class="text-p">
-                 Quality prediction, maintenance, and an understanding of what happens inside the plant, we keep the composition intact.
+              Qualitätsprognose, Wartung und ein Verständnis dafür, was in der Anlage passiert, wir halten die 
+Zusammensetzung intakt.
               </p>
               <br>
 
@@ -284,7 +285,14 @@ gtag('config', 'UA-143837547-1');
               </div>
               <div class="short-line bg-red"></div>
               <div class="imgW-more">
-                <p class="text-p">Chemical manufacturers have realized that predictive analysis can be the next boom in this industry.  As tempting as it sounds, it raises the level of understanding of what happens inside the plant, smoothen manufacturing operations and have predictive maintenance at their disposal. All the chronicles of the production units & their machinery can be filtered in a flick to analyze when it will break, the period of service and also the fundamental issues of failure to fix them to prevent the actual avalanche. As the data speaks, predictive maintenance condenses downtime by 30-50% and surges the machine life by 20-40%. This will cut the cost, increase profit margin, efficiency and might as well give the company an edge. Summing up, APA can add a cherry to the cake in chemical industries.</p>
+                <p class="text-p">Chemiehersteller haben erkannt, dass die prädiktive Analyse der nächste Boom in dieser Branche sein kann. 
+Es erhöht das Verständnis dafür, was im Werk passiert, sorgt für reibungslose Produktionsabläufe und 
+verfügt über Predictive Maintenance. Alle Aufzeichnungen der Produktionseinheiten und ihrer Maschinen 
+können in einem Klick gefiltert werden, um zu analysieren, wann sie ausfallen werden. Wie die Daten zeigen,
+reduziert die Predictive Maintenance die Ausfallzeiten um 30-50% und erhöht die Lebensdauer der 
+Maschine um 20-40%. Dies wird die Kosten senken, die Gewinnmarge und Effizienz erhöhen und dem 
+Unternehmen einen Vorteil verschaffen. Zusammenfassend lässt sich sagen, dass die APA dem Kuchen 
+in der chemischen Industrie ein Sahnehäubchen hinzufügen kann.</p>
               </div>
             </div>
           </div>
