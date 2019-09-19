@@ -378,7 +378,7 @@
 
                                         <!--BUTTON START-->
                                         <div class="generic_price_btn clearfix">
-                                            <a class="" href="">BUY NOW</a>
+                                            <a class="" href="https://aws-cloud.tvarit.com" target="_blank">BUY NOW</a>
                                         </div>
                                         <!--//BUTTON END-->
 
@@ -445,7 +445,7 @@
 
                                         <!--BUTTON START-->
                                         <div class="generic_price_btn clearfix">
-                                            <a class="" href="">BUY NOW</a>
+                                            <a class="" href="https://aws-cloud.tvarit.com" target="_blank">BUY NOW</a>
                                         </div>
                                         <!--//BUTTON END-->
 
@@ -511,7 +511,7 @@
 
                                         <!--BUTTON START-->
                                         <div class="generic_price_btn clearfix">
-                                            <a class="" href="">BUY NOW</a>
+                                            <a class="" href="https://aws-cloud.tvarit.com" target="_blank">BUY NOW</a>
                                         </div>
                                         <!--//BUTTON END-->
 
@@ -525,31 +525,48 @@
                         </div>
                     </section>
                     <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <!-- <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div> -->
-                </div>
+                        <div class="container">
+                            <div class="white-box-shadow">
+                                <div class="centerTitle">
+                                    <!-- <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div> -->
+                                </div>
 
-                <div class="centerPharseContent text-p commitment-view">
-                    No commitment for 1 month – cancel anytime<br>
-                    After your free month, pay as little as €10%/month when billed annually
-                </div>
-            </div>
-        </div>
-    </div>
+                                <div class="centerPharseContent text-p commitment-view">
+                                    No commitment for 1 month – cancel anytime<br>
+                                    After your free month, pay as little as €10%/month when billed annually
+                                </div>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
 
             </div>
             <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                <div class="container">
+                    <div class="col-md-12">
+                        <div id="generic_price_table">
+                            <div class="generic_content clearfix">
+                                <div class="on-premise-view" style="padding:10px;">
+                                    <h4>One-Time Payment:</h4>
+                                        <!--BUTTON START-->
+
+                                        <div class="generic_price_btn clearfix">
+                                            <a class="" href="contact">Contact us</a>
+                                        </div>
+                                        <!--//BUTTON END-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
 
     </div>
 
-    
+
 
 
     <!------------------------footer start --------------------->
