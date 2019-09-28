@@ -169,6 +169,30 @@
                             </div>
                         </div>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="javascript://">Pricing</a>
+                        <div class="submenu-div">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="menuQuote">
+                                        <div class="textBig">Pricing<span class="red">.</span></div>
+                                        <p class="text-normal">Price is what you pay. Value is what you get.</p>
+                                    </div>
+                                </div>
+                                <div class="col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="pricing#cloud" class="sub-Link">Cloud</a>
+                                        </li>
+                                        <li>
+                                            <a href="pricing#on-Premise" class="sub-Link">On-Premise</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
                     <li class="nav-item active">
                         <a class="nav-link" href="javascript://">Industries</a>
                         <div class="submenu-div">
@@ -293,16 +317,16 @@
     <div class="section-padding pricing-view">
         <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home"
+                <a class="nav-link active" id="home-tab" data-toggle="tab" href="#cloud" role="tab" aria-controls="home"
                     aria-selected="true">Cloud</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
+                <a class="nav-link" id="profile-tab" data-toggle="tab" href="#on-Premise" role="tab"
                     aria-controls="profile" aria-selected="false">On-Premise</a>
             </li>
         </ul>
         <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
+            <div class="tab-pane fade show active" id="cloud" role="tabpanel" aria-labelledby="home-tab">
                 <div id="generic_price_table">
                     <section>
                         <div class="container">
@@ -310,7 +334,8 @@
                                 <div class="col-md-12">
                                     <!--PRICE HEADING START-->
                                     <div class="price-heading clearfix">
-                                        <h1>APA Pricing Table</h1>
+                                        <div class="text-big60"><span class="tvarit-black"> APA Pricing Table </div>
+                                        <br />
                                     </div>
                                     <!--//PRICE HEADING END-->
                                 </div>
@@ -528,12 +553,11 @@
                         <div class="container">
                             <div class="white-box-shadow">
                                 <div class="centerTitle">
-                                    <!-- <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span>  The Team</div> -->
                                 </div>
 
                                 <div class="centerPharseContent text-p commitment-view">
                                     No commitment for 1 month – cancel anytime<br>
-                                    After your free month, pay as little as €10%/month when billed annually
+                                    After your free month, get 10% discount when billed annually.
                                 </div>
                             </div>
                         </div>
@@ -542,19 +566,20 @@
                 </div>
 
             </div>
-            <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+            <div class="tab-pane fade" id="on-Premise" role="tabpanel" aria-labelledby="profile-tab">
                 <div class="container">
                     <div class="col-md-12">
                         <div id="generic_price_table">
                             <div class="generic_content clearfix">
                                 <div class="on-premise-view" style="padding:10px;">
-                                    <h4>One-Time Payment:</h4>
-                                        <!--BUTTON START-->
+                                    <div class="text-big60"><span class="tvarit-black"> One-Time Payment </div>
 
-                                        <div class="generic_price_btn clearfix">
-                                            <a class="" href="contact">Contact us</a>
-                                        </div>
-                                        <!--//BUTTON END-->
+                                    <!--BUTTON START-->
+
+                                    <div class="generic_price_btn clearfix">
+                                        <a class="" href="contact">Contact us</a>
+                                    </div>
+                                    <!--//BUTTON END-->
                                 </div>
                             </div>
                         </div>
@@ -587,7 +612,33 @@
     <script src="js/counting.js"></script>
     <script src="js/script.js"></script>
     <script src="js/parallax.js"></script>
-
+    <script> 
+$(document).ready(() => {
+  let url = location.href.replace(/\/$/, "");
+ 
+  if (location.hash) {
+    const hash = url.split("#");
+    $('#myTab a[href="#'+hash[1]+'"]').tab("show");
+    url = location.href.replace(/\/#/, "#");
+    history.replaceState(null, null, url);
+    setTimeout(() => {
+      $(window).scrollTop(0);
+    }, 400);
+  } 
+   
+  $('a[data-toggle="tab"]').on("click", function() {
+    let newUrl;
+    const hash = $(this).attr("href");
+    if(hash == "#home") {
+      newUrl = url.split("#")[0];
+    } else {
+      newUrl = url.split("#")[0] + hash;
+    }
+    newUrl += "/";
+    history.replaceState(null, null, newUrl);
+  });
+});
+<script> 
 
 </body>
 
