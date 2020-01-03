@@ -235,7 +235,7 @@
 
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about">About Us</a>
+        <a class="nav-link" href="about">About us</a>
         <div class="submenu-div">
             <div class="row">
                 <div class="col">

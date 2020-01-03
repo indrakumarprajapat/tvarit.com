@@ -277,7 +277,7 @@ $("#btn").live("click",function(){
           <form  method ="post">
             <div class="contactBox">
               <div class="text-contact">
-                Kontaktiere Uns
+                Kontaktiere uns
               </div>
               <div class="formBox">
                 <div class="form-group">

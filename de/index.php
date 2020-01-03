@@ -266,12 +266,12 @@
 
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about">Über Uns</a>
+        <a class="nav-link" href="about">Über uns</a>
         <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">Über Uns<span class="red">.</span></div>
+                        <div class="textBig">Über uns<span class="red">.</span></div>
                         <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
                             growth and work invariably to deliver tech-savvy APA products which help make your business
                             simpler and upgraded.</p>
@@ -342,8 +342,7 @@
                     </div>
                     <br>
                     <div class="text-head">
-                        Tvarit KI ist die beste Lösung für intelligente Herstellung, intelligente Maschinen und digitale
-                        Transformation
+                        Tvarit KI bietet die beste Lösung für smarte Produktionsprozesse, smarte Fertigungsanlagen und digitale Transformation                        
                     </div>
                 </div>
 
@@ -378,54 +377,13 @@
 
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div>
-                </div>
-
-                <div class="col-md-6">
-
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-first red">Warum</div>
-                            <div class="text-big60">APA?</div>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="whyapamore">
-                            <p class="text-p">
-                                Ein kurzer Einblick in der Welt von APA: APA ist der Schlüssel, geschäfliche Mühen zu
-                                vermeiden und um
-                                die Effizienz und die Genauigkeit zu erhöhen. Anstatt die Frage zu stellen "Was passiert
-                                ist?", ermöglicht APA dem Anwender einen Schritt voraus zu denken und Frage wie z.B.
-                                "Was kommt als nächstes?" und "Was soll dafür/dagegen gemacht werden?" zu beantworten.
-                                Die Assimilation der digitalen und der realen Welt beeinhaltet ebenfalls eine
-                                Metamorphose in der Herstellung. Tvarit AI bereitet sich auf die Revolution und leistet
-                                mit APA seinen
-                                Beitrag dazu: Entdecke die Welt von Predictive Analytics jetzt mit uns! </p>
-                        </div>
-                        <div class="clearfix"></div>
-                        <br>
-                        <a href="products" class="btn btn-round btn-shadow btn-red-grd">Alle Services ansehen</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <!------------------------ why needed end ----------------------->
 
     <!------------------------ Features start --------------------->
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle text-big60">
-                Vorteile von <span class="red fw-900">APA</span>
+            innovativen <span class="red fw-900">Software-features</span>
             </div>
 
             <br>
@@ -441,104 +399,21 @@
                         <p class="title">Predictive Maintenance</p>
 
                         <div class="more">
-                            <p class="text-p">Wir haben überwachte und nicht-überwachte ML Algotrithmen entwickelt,
-                                welche sowohl stukturierte
-                                als auch unstrukturierte Daten analysiern, um Fehler mit einer Echtzeit-Genauigkeit von
-                                97,2%
-                                vorherzusagen. Diese stellen umsetzbare Informationen über die aktuellen Umstände zur
-                                Verfügung,
-                                unter denen ein echter Zusammenbruch passieren würde und warnt Sie früh genug, um diesen
-                                zu verhindern. Es hilft außerdem bei der Senkung der Betriebs- und Kapitalkosten und
-                                sorgt für einen
-                                besser gestrafften Arbeitsablauf.</p>
+                            <p class="text-p">Unsere preditive maintenance Lösung erlaubt es Ihnen sämtliche Arten von Unterbrechungen im Produktionsprozess die auf Maschinenversagen basieren, zuverlässig vorherzusagen und damit zu verhindern. Durch ein übersichtliches Ranking aller in einem drohenden Maschinenausfall involvierten Parameter mitsamt ihrer Konfidenzintervalle wissen Sie auch jederzeit, was zu tun ist. Somit können Sie durch eine einfache Korrektur der/des involvierte Parameter(s) eine potentielle Unterbrechung im Produktionsprozess zuverlässig verhindern. Sollte ein tatsächlicher Defekt unvermeidbar werden, können Sie rechtzeitig reagieren und betoffene Komponenten austauschen, bevor diese versagen. Schnell, einfach und effizient. Zeitverzögerungen, Ausfälle und damit verbundene Kosten sowie verärgerte Kunden gehören der Vergangenheit an. Damit ist unsere Software in den Bereichen Effizienz, Skalierung, Akkuratheit und Zuverlässigkeit gegenüber einer regelbasierten maintenance Lösung deutlich überlegen. Durch den gegenseitigen Wissenstransfer der Maschinen verbessert sich unsere Lösung kontiniuerlich in den KPIs Effizienz, Akkuratheit und Zuverlässigkeit.</p>
                         </div>
 
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-1.png" class="img-fluid">
-                        </div>
-
-                        <p class="title">Inventaroptimierung</p>
-
-                        <div class="more">
-                            <p class="text-p">Wir haben eine Weltklasse-Lösung zur Bestandsoptimierung entwickelt, die
-                                nicht nur mehrstrukturierte
-                                Daten analysiert, sondern auch kontinuierlich daraus lernt. Mit unserer Lösung können
-                                Sie
-                                Live-Empfehlungen erhalten, Lagerkosten senken und zukünftige Unsicherheiten besser
-                                erkennen.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-3.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Sensorwartung</p>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Unsere Lösung ermöglicht es Ihnen, die Wartungskosten der Sensoren zu senken und die
-                                Kundenzufriedenheit zu
-                                steigern, indem Sie Probleme einfach und schnell lösen. Sie erhalten außerdem die
-                                Prioritätsliste der
-                                Sensoren, die in naher Zukunft ausfallen werden
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-4.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Energie sparen</p>
-
-                        <div class="more">
-                            <p class="text-p">Mit unserer Lösung können Sie das Energiemanagement optimieren, indem Sie
-                                die höchste Anzahl an
-                                KI-Algorithmen verwenden. Es generiert bessere Vorhersagemodelle für den Energiebedarf
-                                und bietet
-                                Ihnen eine bessere Übersicht, um zukünftige Unsicherheiten und Energiesparmöglichkeiten
-                                zu erkennen.
-                                Es ermöglicht Ihnen außerdem die automatische Verwaltung und Optimierung des Betriebs in
-                                Echtzeit
-                                und kann dabei helfen, Ihre Kohlenstoffemission und die Nachhaltigkeitsziele zu
-                                erreichen.</p>
-                        </div>
-
-                    </div>
-                </div>
-
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
                             <img src="img/f-icon-5.png" class="img-fluid">
                         </div>
 
-                        <p class="title"> Qualitätsmanagement </p>
+                        <p class="title"> Predictive quality </p>
 
                         <div class="more">
-                            <p class="text-p">Mit unserer intelligenten und einfachen Lösung können Sie die Präzision,
-                                Effizienz und Geschwindigkeit
-                                Ihres Qualitätskontrollprozesses steigern. Es kann Ihnen dabei helfen, die Anzahl
-                                fehlerhafter Teile und die
-                                daraus resultierenden hohen Kosten zu verringern, indem proaktiv die Fehler und
-                                Störungen identifiziert
-                                werden, die sich negativ auf Ihr System, den Produktionsprozess oder der Qualität Ihrer
-                                Produkte
-                                auswirken. Dies geschieht, indem wir Ihren Herstellungsprozess und Ihre Maschinen
-                                intelligenter machen.</p>
+                            <p class="text-p">Unser predictive quality Feature ermöglicht es Ihnen zu jeder Zeit eine konsistent hohe Produktqualität sicherzustellen und gleichzeitig Ausschuss zu minimieren. Im Detail können Sie bereits heute die Qualität zukünftig produzierter Produkte mittels KI zuverlässig vorhersagen. Sollte es laut Vorhersage zu ungeplanten Beeinträchtigungen der Qualität kommen, liefert unsere Software Ihnen umgehend ein Ranking aller ursächlichen Parameter samt Konfidenzintervallen. Somit lassen sich fehlerhafte Parameter sofort korrigieren und etwaige Qualitätseinbußen können bereits vor Ihrem Eintritt eliminiert werden. Dadurch gehören ungeplante Unterbrechungen im Produktionsprozess, Nacharbeiten, Ausschuss und Kundenbeschwerden der Vergangenheit an. Starten Sie in ein neues Zeitalter mit unserer predictive quality solution.</p>
                         </div>
 
                     </div>
@@ -548,26 +423,6 @@
         </div>
     </div>
     <!------------------------ Features end --------------------->
-
-    <!------------------------ WHY NOW start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60">Warum <span class="fw-900">jetzt ?</span></div>
-                    <h3 class="bold text-center red">Timing</h3>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    Unsere Vision ist es, skalierbare und nachhaltige Lösungen zu entwickeln, die unsichtbar und
-                    unterstützend sind und es Herstellern ermöglichen, Ihr angesterbtes Ziel zu erreichen - effiziente
-                    Produktionen.
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ WHY NOW end ----------------------->
-
 
     <!------------------------Countdown start --------------------->
     <?php include 'change_we_brought_stats.php';?>

@@ -265,7 +265,7 @@
 
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about">About Us</a>
+        <a class="nav-link" href="about">About us</a>
         <div class="submenu-div">
             <div class="row">
                 <div class="col">
@@ -378,54 +378,14 @@
         </div>
     </div>
 
-
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
-        <div class="container">
-
-            <div class="row align-items-center">
-                <div class="col-md-6">
-                    <div class="videoWrapper">
-                        <iframe class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div>
-                </div>
-
-                <div class="col-md-6">
-
-                    <div class="px-4 box-content-left">
-                        <div class="title">
-                            <div class="text-first red">Why</div>
-                            <div class="text-big60">APA?</div>
-                        </div>
-                        <div class="short-line bg-red"></div>
-                        <div class="whyapamore">
-                            <p class="text-p">
-                                An insight into the world of APA-APA is the key to ease all the business hassle, to
-                                increase all the efficiency, to add all the precision. Instead of looking backward to
-                                analyze "what happened?" predictive analytics help executives answer "What's next?" and
-                                "What should we do about it?" With the assimilation of the digital and human world, the
-                                future beholds a manufacturing metamorphosis. Preparing and contributing for the
-                                revolution, Tvarit AI extends it's services in APA to offer the following: Explore the
-                                world of Predictive Analytics with us now! </p>
-                        </div>
-                        <div class="clearfix"></div>
-                        <br>
-                        <a href="products" class="btn btn-round btn-shadow btn-red-grd">SEE ALL SERVICES</a>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
     <!------------------------ why needed end ----------------------->
 
     <!------------------------ Features start --------------------->
     <div class="section-padding">
         <div class="container">
             <div class="centerTitle text-big60">
-                Benefits of <span class="red fw-900">APA</span>
+            innovative<span class="red fw-900"> software-features</span>
             </div>
 
             <br>
@@ -441,92 +401,25 @@
                         <p class="title">PREDICTIVE MAINTENANCE</p>
 
                         <div class="more">
-                            <p class="text-p">We have developed supervised & non- supervised ML algorithms which
-                                analysis all structured and non-structured data to predict
-                                failure with 97.2% real-time accuracy. They provide actionable information on real time
-                                circumstances under which real breakdown
-                                is going to happen and alert you much before the time to take suitable action. It can
-                                help you in increasing uptime, reducing
-                                operational and capital expenses and better streamlining of workflow.</p>
+                            <p class="text-p">Predictive maintenance enables you to predict and therefore avoid any unplanned shut- or breakdown of any production machinery by taking corrective action which our software suggests you. Thus, this feature helps you to reliably forecast and therefore successfully execute any production process. No more unplanned interruptions and thus no more unplanned costs, no more delays in the production and therefore more efficient planning and satisfied customers. On top of that, our machine learning algorithms ensure that the learnings from each machine and each product can be directly transferred every other machine or production process. Therefore, our solution is not only gradually improving in accuracy and reliabilty but also it is highly adaptable and not limited to a specific product or production process. As opposed to rule-based maintenance, which is offered by many companies and falsly claimed to be predictive, our predictive maintenance solution is based AI technology and therefore not only smart, but also superior in terms of efficiency, accuracy and scalability over most of the existing solutions.</p>
                         </div>
 
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-1.png" class="img-fluid">
-                        </div>
-
-                        <p class="title">Inventory Optimization</p>
-
-                        <div class="more">
-                            <p class="text-p">We have developed word-class solution for inventory optimization which not
-                                only analysis multi-structured data but also learns from
-                                them in continuous manner. By using our solution, you will be able to get live
-                                recommendations, reduce inventory costs and better
-                                visibility of future uncertainties.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-3.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Sensors Health Maintenance</p>
-
-                        <div class="more">
-                            <p class="text-p">
-                                Our solution enables you to reduce maintenance expenses and increase customer
-                                satisfaction by resolving issues in a remote and
-                                quick manner. It gives you the priority list of sensors which are going to fail in near
-                                future.
-                            </p>
-                        </div>
-
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="featureBox">
-                        <div class="icon">
-                            <img src="img/f-icon-4.png" class="img-fluid">
-                        </div>
-
-                        <p class="title"> Energy Saving</p>
-
-                        <div class="more">
-                            <p class="text-p">Our solution enables you to optimize energy management by utilizing
-                                highest number of AI algorithms. It generates better energy
-                                demand predictive models and gives you better visibility to see future uncertainties and
-                                energy saving opportunities. It enables you to
-                                automatically manage and optimize operations in real time. It can help you in achieving
-                                your carbon emission and sustainability goals.</p>
-                        </div>
-
-                    </div>
-                </div>
-
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
                             <img src="img/f-icon-5.png" class="img-fluid">
                         </div>
 
-                        <p class="title"> Quality Management </p>
+                        <p class="title"> Predictive quality </p>
 
                         <div class="more">
-                            <p class="text-p">Our smart and simple solution enables you to increase the precision,
-                                efficiency and speed of your quality control process. It can help
-                                you in reducing the number of faulty parts and the high costs resulting from them by
-                                proactively identifying the mistakes and faults
-                                that negatively affects your production process and quality of your products. We do this
-                                by making your manufacturing process and
-                                machines smarter.</p>
+                            <p class="text-p">Maintain a consistently high output quality by preventing defectils or quality impairments from occuring. You will obtain reliable predictions of the future output quality as well as its determining factors. Thus, in case of any predicted quality impairment, you are able to react in realtime by adjusting the suggested parameter(s) and therefore prevent any potential error from occuring. This will lead to significant savings in time and costs as well as a consistently high product quality is associated with high customer satisfaction.
+                            <br>
+                            <br>
+                            Our smart and simple solution enables you to increase the precision, efficiency and speed of your 
+quality control process.</p>
                         </div>
 
                     </div>
@@ -536,25 +429,6 @@
         </div>
     </div>
     <!------------------------ Features end --------------------->
-
-    <!------------------------ WHY NOW start --------------------->
-    <div class="section-padding-both">
-        <div class="container">
-            <div class="white-box-shadow">
-                <div class="centerTitle">
-                    <div class="text-big60">WHY <span class="fw-900">NOW ?</span></div>
-                    <h3 class="bold text-center red">TIMING</h3>
-                </div>
-
-                <div class="centerPharseContent text-p">
-                    Our vision is to build scalable and sustainable Automated Predictive Analytics (APA) solutions which
-                    are invisible and assistive, allowing manufacturers to do what they love - efficient productions.
-                </div>
-            </div>
-        </div>
-    </div>
-    <!------------------------ WHY NOW end ----------------------->
-
 
     <!------------------------Countdown start --------------------->
     <div class="section-padding-both countBg parallax-bg parallax" data-diff="100" id="counter">
@@ -567,12 +441,6 @@
                     <div class="countBox">
                         <div class="figure"><span class="figureNum" data-count="22">0</span> <small>+</small></div>
                         <div class="text">Highest number of algorithms</div>
-                    </div>
-                </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
-                        <div class="text">Accuracy of APA models</div>
                     </div>
                 </div>
 
@@ -601,12 +469,6 @@
                         <div class="text">Increase in OEE</div>
                     </div>
                 </div>
-                <div class="col-md">
-                    <div class="countBox">
-                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
-                        <div class="text">Decrease in delivery time</div>
-                    </div>
-                </div>
 
                 <div class="col-md">
                     <div class="countBox">
@@ -618,7 +480,7 @@
                 <div class="col-md">
                     <div class="countBox">
                         <div class="figure"><span class="figureNum" data-count="25">0</span> <small>%</small></div>
-                        <div class="text">Reduction in quality defects</div>
+                        <div class="text">Reduction number of production defects</div>
                     </div>
                 </div>
             </div>

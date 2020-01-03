@@ -211,12 +211,12 @@
 
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about">Über Uns</a>
+        <a class="nav-link" href="about">Über uns</a>
         <div class="submenu-div">
             <div class="row">
                 <div class="col">
                     <div class="menuQuote">
-                        <div class="textBig">Über Uns<span class="red">.</span></div>
+                        <div class="textBig">Über uns<span class="red">.</span></div>
                         <p class="text-normal">We believe in the transfusion of technology & humanity for imperative
                             growth and work invariably to deliver tech-savvy APA products which help make your business
                             simpler and upgraded.</p>

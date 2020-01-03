@@ -16,7 +16,7 @@ gtag('config', 'UA-143837547-1');
         <!-- Favicons -->
         <link rel="apple-touch-icon" href="./assets/img/kit/free/apple-icon.png">
         <link rel="icon" href="./img/favicon.png">
-        <title>Kontaktiere Uns</title>
+        <title>Kontaktiere uns</title>
          
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/style.css">
@@ -313,12 +313,12 @@ $("#btn").live("click",function(){
 
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about">Über Uns</a>
+                <a class="nav-link" href="about">Über uns</a>
                 <div class="submenu-div">
                   <div class="row">
                     <div class="col">
                       <div class="menuQuote">
-                        <div class="textBig">Über Uns<span class="red">.</span></div>
+                        <div class="textBig">Über uns<span class="red">.</span></div>
                         <p class="text-normal">We believe in the transfusion of technology & humanity for imperative growth and work invariably to deliver tech-savvy APA products which help make your business simpler and upgraded.</p>
                       </div>
                     </div>
@@ -370,7 +370,7 @@ $("#btn").live("click",function(){
                 Let's Connect
               </div>
               <div class="text-big60">
-              Kontaktiere Uns
+              Kontaktiere uns
               </div>
               <br>
               <p class="text-p">
