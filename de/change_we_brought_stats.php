@@ -10,6 +10,12 @@
                     <div class="text">Die höchste Anzahl an Algorithmen</div>
                 </div>
             </div>
+            <div class="col-md">
+                <div class="countBox">
+                    <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
+                    <div class="text">Genauigkeit von APA-Modellen</div>
+                </div>
+            </div>
 
             <div class="col-md">
                 <div class="countBox">
@@ -36,7 +42,13 @@
                     <div class="text">Optimierung der OEE</div>
                 </div>
             </div>
-            
+            <div class="col-md">
+                <div class="countBox">
+                    <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
+                    <div class="text">Verringerung von Lieferzeiten</div>
+                </div>
+            </div>
+
             <div class="col-md">
                 <div class="countBox">
                     <div class="figure"><span class="figureNum" data-count="12">0</span> <small>%</small></div>

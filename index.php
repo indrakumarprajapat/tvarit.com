@@ -328,7 +328,7 @@
                         <div class="text-big60">
                             <span class="tvarit-black">Tv<span class="color">a</span>r<span
                                     class="color">i</span>t</span> TALKS
-                        </div>
+                                    </div>
                         <div class="text-1">
                             TO YOUR MACHINES
                         </div>
@@ -409,6 +409,63 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
+                            <img src="img/f-icon-1.png" class="img-fluid">
+                        </div>
+
+                        <p class="title">Inventory Optimization</p>
+
+                        <div class="more">
+                            <p class="text-p">We have developed word-class solution for inventory optimization which not
+                                only analysis multi-structured data but also learns from
+                                them in continuous manner. By using our solution, you will be able to get live
+                                recommendations, reduce inventory costs and better
+                                visibility of future uncertainties.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/f-icon-3.png" class="img-fluid">
+                        </div>
+
+                        <p class="title"> Sensors Health Maintenance</p>
+
+                        <div class="more">
+                            <p class="text-p">
+                                Our solution enables you to reduce maintenance expenses and increase customer
+                                satisfaction by resolving issues in a remote and
+                                quick manner. It gives you the priority list of sensors which are going to fail in near
+                                future.
+                            </p>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/f-icon-4.png" class="img-fluid">
+                        </div>
+
+                        <p class="title"> Energy Saving</p>
+
+                        <div class="more">
+                            <p class="text-p">Our solution enables you to optimize energy management by utilizing
+                                highest number of AI algorithms. It generates better energy
+                                demand predictive models and gives you better visibility to see future uncertainties and
+                                energy saving opportunities. It enables you to
+                                automatically manage and optimize operations in real time. It can help you in achieving
+                                your carbon emission and sustainability goals.</p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
                             <img src="img/f-icon-5.png" class="img-fluid">
                         </div>
 
@@ -443,7 +500,12 @@ quality control process.</p>
                         <div class="text">Highest number of algorithms</div>
                     </div>
                 </div>
-
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="97.2">0</span> <small>%</small></div>
+                        <div class="text">Accuracy of APA models</div>
+                    </div>
+                </div>
                 <div class="col-md">
                     <div class="countBox">
                         <div class="figure"><span class="figureNum" data-count="0">100</span> <small class="x"></small>
@@ -469,7 +531,12 @@ quality control process.</p>
                         <div class="text">Increase in OEE</div>
                     </div>
                 </div>
-
+                <div class="col-md">
+                    <div class="countBox">
+                        <div class="figure"><span class="figureNum" data-count="30">0</span> <small>%</small></div>
+                        <div class="text">Decrease in delivery time</div>
+                    </div>
+                </div>
                 <div class="col-md">
                     <div class="countBox">
                         <div class="figure"><span class="figureNum" data-count="12">0</span> <small>%</small></div>

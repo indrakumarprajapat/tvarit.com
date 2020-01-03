@@ -407,6 +407,70 @@
                 <div class="col-md-4">
                     <div class="featureBox">
                         <div class="icon">
+                            <img src="img/f-icon-1.png" class="img-fluid">
+                        </div>
+
+                        <p class="title">Inventaroptimierung</p>
+
+                        <div class="more">
+                            <p class="text-p">Wir haben eine Weltklasse-Lösung zur Bestandsoptimierung entwickelt, die
+                                nicht nur mehrstrukturierte
+                                Daten analysiert, sondern auch kontinuierlich daraus lernt. Mit unserer Lösung können
+                                Sie
+                                Live-Empfehlungen erhalten, Lagerkosten senken und zukünftige Unsicherheiten besser
+                                erkennen.
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/f-icon-3.png" class="img-fluid">
+                        </div>
+
+                        <p class="title"> Sensorwartung</p>
+
+                        <div class="more">
+                            <p class="text-p">
+                                Unsere Lösung ermöglicht es Ihnen, die Wartungskosten der Sensoren zu senken und die
+                                Kundenzufriedenheit zu
+                                steigern, indem Sie Probleme einfach und schnell lösen. Sie erhalten außerdem die
+                                Prioritätsliste der
+                                Sensoren, die in naher Zukunft ausfallen werden
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
+                            <img src="img/f-icon-4.png" class="img-fluid">
+                        </div>
+
+                        <p class="title"> Energie sparen</p>
+
+                        <div class="more">
+                            <p class="text-p">Mit unserer Lösung können Sie das Energiemanagement optimieren, indem Sie
+                                die höchste Anzahl an
+                                KI-Algorithmen verwenden. Es generiert bessere Vorhersagemodelle für den Energiebedarf
+                                und bietet
+                                Ihnen eine bessere Übersicht, um zukünftige Unsicherheiten und Energiesparmöglichkeiten
+                                zu erkennen.
+                                Es ermöglicht Ihnen außerdem die automatische Verwaltung und Optimierung des Betriebs in
+                                Echtzeit
+                                und kann dabei helfen, Ihre Kohlenstoffemission und die Nachhaltigkeitsziele zu
+                                erreichen.</p>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="featureBox">
+                        <div class="icon">
                             <img src="img/f-icon-5.png" class="img-fluid">
                         </div>
 
