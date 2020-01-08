@@ -289,9 +289,8 @@
                         <br>
                         <div class="more">
                             <p class="text-p">
-                            Eine Investition in Wissen führt zu den besten Zinsen. Wenn Sie einen visuellen Einblick in die faszinierende 
-                            Welt der Vierten Industriellen Revolution suchen, haben wir viele aufschlussreiche Videos für Sie. Scrollen 
-                            Sie nach unten, um die gewünschten Themen zu finden.
+                                Neugierig über Industrie 4.0? Fühlen Sie sich eingeladen und entdecken Sie mehr mit
+                                einem Blick auf unsere spannenden Videos.
                             </p>
                         </div>
 
