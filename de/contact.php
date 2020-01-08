@@ -374,9 +374,9 @@ $("#btn").live("click",function(){
               </div>
               <br>
               <p class="text-p">
-              Lassen Sie uns in Kontakt treten und Sie darüber auf dem Laufenden halten, wie wir Ihnen helfen können. 
-Bitte füllen Sie das untenstehende Formular aus. 
-Wir werden Sie innerhalb von 24 Stunden kontaktieren.
+                Ergreifen Sie jetzt Ihre Chance und machen Sie Ihr Unternehmen fit für die Zukunnt: So enfach und komfortabel wie nie.
+                Mit unseren einzigartigen Industrie 4.0 Lösungen. 
+                Nutzen Sie das Kontaktformular und wir melden uns bei Ihnen innerhalb von 24 Stunden
               </p>
 
             </div>

@@ -284,13 +284,23 @@
                         <br>
                         <div class="more">
                             <p class="text-p">
-                                Die Tvarit GmbH ist stolz darauf, ein innovatives und kundenorientiertes Unternehmen mit
-                                zuverlässigen
-                                technischen Wurzeln zu sein. Wir arbeiten mit einem umfangreichen Netzwerk von
-                                technischen und
-                                kaufmännischen Fachleuten zusammen, die über jahrelange Erfahrung bei der Durchführung
-                                wichtiger Projekte
-                                mit MNCs in Europa verfügen.
+                                Wir sind ein deutsches high-tech Unternehmen mit Sitz in Frankfurt welches sich auf
+                                Industrie 4.0 Lösungen für kleine und mittelständische Produktionsunternehmen spezialisiert
+                                hat. Wenn Sie sich für Tvarit entscheiden verabschieden Sie sich automatisch von dem
+                                Glaubenssatz das digitale Transformation oder künstliche Intelligenz zu komplex oder 
+                                aufwändig für Ihr Unternehmen seien. Unser Ziel ist es mit unserer einzigartigen und
+                                flexiblen AI Software-Plattform den Schritt in Richtung Industrie 4.0 so einfach und
+                                komfortabel wie möglich zu gestalten. Wenig existierende Daten, unstruktierte Daten in
+                                verschiedenen Formaten, ständig variierende Produkte, Maschinen oder Prozesse?
+                                Dies alles sind Punkte, die unsere Kunden bisher von einer digitalen Transformation
+                                abgehalten haben. Aus diesem Grund haben wir es uns zur Aufgabe gemacht, auf genau diese
+                                Hindernisse einzugehen. In Konsequenz ist es nun möglich, mit nahezu jedem Format von Daten
+                                arbeiten zu können. Unabhängig ob Sie sich bereits in einem Transformationsprozess befinden
+                                oder bisher lediglich darüber nachgedacht zu haben - wir passen uns Ihren Umständen und
+                                Wünschen an. Versprochen. 
+                                Wir arbeiten mit hochqualifizierten Senior Data Scientists, Industrie Experten und
+                                Softwareentwicklern zusammen um Ihnen die beste und komfortabelste ndustrie 4.0 Lösung
+                                bieten zu können.
                             </p>
                         </div>
 
@@ -506,7 +516,7 @@
                             <div class="short-line-team bg-red"></div>
                             <ul class="ul-list">
                                 <li>Geekiest amongs Geeks und ein Amateur-Physiker</li>
-                                <li>Ruft von Indiens bestem Institut: IIT Bombay</li>
+                                <li>Sammelte seine Expertise an Indiens berühmtesten Technologie Institut: IIT Bombay</li>
                                 <li>Platz 2 beim ASME-Wettbewerb in San Diego, Kalifornien</li>
                             </ul>
                             <div class="social-icon">

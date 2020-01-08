@@ -374,14 +374,14 @@ $("#btn").live("click",function(){
           <div class="col-md-6">
             <div class="typography">
               <div class="text-1">
-                Let's Connect
+                Get In Touch
               </div>
               <div class="text-big60">
                 Contact Us
               </div>
               <br>
               <p class="text-p">
-                 Let us get connected and get you updated on how can we help you. Please fill the form below. We will contact you within 24 hours.
+                 Please fill in the form and get in touch now with one of the leaders in digital transformation for SME companies. We will get back to you within 24 hours.
               </p>
 
             </div>

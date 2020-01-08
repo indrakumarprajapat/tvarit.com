@@ -292,10 +292,17 @@
                         <br>
                         <div class="more">
                             <p class="text-p">
-                                Tvarit GmbH takes pride in being an innovative & a customer-oriented company with
-                                reliable technical roots. We operate with an extensive nexus of technical and business
-                                professionals, withholding years of experience in establishing crucial projects with
-                                MNCs in Europe.
+                                Headquartered in Frankfurt am Main, we are a German high-tech company making SME companies
+                                ready for Industry 4.0. Our goal is to eliminate limiting beliefs about AI technologies being too
+                                complex for medium-sized companies. Thus, whilst developing our worldclass AI software solution for
+                                medium-sized manufacturing companies, we especially focussed on the aspect that our solution can be
+                                easily and comfortably implemented in your premise as well as on a high customization.
+                                Small amounts of existing data, unstructured and multiple types of data, varying products or different
+                                machines should are not longer an obstacle to enter the world of Industry 4.0 when you decide to use Tvarit.
+                                No matter what your demands or circumstances are, whether you are already in the stage of transformation
+                                or not – we will adapt to you. Smart manufacturing, AI and predictive solutions should be easily available
+                                for everyone. We are working together with highly senior data scientists, production and IT experts in
+                                order to provide you the Industry 4.0 software solution which is tailored to your needs. 
                             </p>
                         </div>
 
