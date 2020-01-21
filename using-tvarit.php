@@ -4,7 +4,7 @@
   <!-- <span class="tvarit-black">Tv<span class="color">a</span>r<span class="color">i</span>t</span> -->
   </div>
   <br>
-  <div class="client-carousel">
+  <div class="client-carousel REFERENCES-carousel">
     <div class="carousel-cell">
       <div class="picBox w-90">
         <img src="img/client_logo/aditya_birla.jpg" class="img-fluid">

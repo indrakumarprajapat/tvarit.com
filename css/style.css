@@ -1315,7 +1315,7 @@ p
 }
 .client-carousel .carousel-cell
 {
-   width: 34%;
+    width: 34%;
     height: 150px;
     display: flex;
     align-items: center;
