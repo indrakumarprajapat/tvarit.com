@@ -448,7 +448,7 @@
 
     <div class="section-padding">
         <div class="container">
-            <div class="centerTitle text-big60">
+            <div class="centerTitle sec-mainTitle">
                 YOUR ADVANTAGES
             </div>
 
