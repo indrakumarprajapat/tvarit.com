@@ -499,7 +499,7 @@
                  <div class="logo-box">
                   <img src="img/logoImg/5.png" class="img-fluid">
                   <div class="logotext">
-                    MONFODB
+                    MONGODB
                   </div>
                 </div>
               </li>
