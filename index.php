@@ -341,85 +341,81 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" id="downClick">
       <div class="container">
-        <div class="centerTitle text-big60">
-          we  <span class="red fw-900">offer</span>
+        <div class="centerTitle sec-mainTitle">
+          we offer
         </div>
-        
         <br>
-
-        <div class="row justify-content-center weOfferBox" style="position:relative">
-          <div class="col-md-4">
-            <div  class="featureBox" style="position:relative">
-              <div class="icon" >
-                <img src="img/ai-solution-1.png" >
-              </div>
-              <div class="inner-container">
-              <p class="title">AI Solutions</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                  We have already developed ready to use software solutions for most impactful business use-cases
-                </li>
-                <li>
-                  Scalable and already proven technology
-                </li>
-                <li>
-                  Available on On-Premise, Cloud and edge-computing
-                </li>
-              </ul>
-              <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd"  style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
-            </div>
+        <div class="row justify-content-lg-center weOfferBox">
+          <div class="col-lg-4">
+            <div  class="featureBox">
+                <div class="icon" >
+                    <img src="img/ai-solution-1.png" >
+                </div>
+                <div class="inner-container">
+                  <p class="title">AI Solutions</p>
+                  <div class="short-line bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                      We have already developed ready to use software solutions for most impactful business use-cases
+                    </li>
+                    <li>
+                      Scalable and already proven technology
+                    </li>
+                    <li>
+                      Available on On-Premise, Cloud and edge-computing
+                    </li>
+                  </ul>
+                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                </div>
             </div>
           </div>
-         
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div class="featureBox">
-              <div class="icon">
-                <img src="img/ai-platform-1.png">
-              </div>
-              <div class="inner-container">
-              <p class="title">AI Platform</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                 Award winning AI Platform for your Data Scientists
-                </li>
-                <li>
-                  Analyse manufacturing data and make new use-cases on your own
-                </li>
-                <li>
-                 Available on On-Premise, Cloud and edge-computing
-                </li>
-              </ul>
-              <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%"> Know More</a>               
-              </div>
+                <div class="icon">
+                    <img src="img/ai-platform-1.png">
+                </div>
+                <div class="inner-container">
+                  <p class="title">AI Platform</p>
+                  <div class="short-line bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                     Award winning AI Platform for your Data Scientists
+                    </li>
+                    <li>
+                      Analyse manufacturing data and make new use-cases on your own
+                    </li>
+                    <li>
+                     Available on On-Premise, Cloud and edge-computing
+                    </li>
+                  </ul>
+                  <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know More</a>               
+                </div>
               </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
                 <img src="img/ai-consulting-1.png" >
               </div>
-              <div class="inner-container">
-
-              <p class="title">AI Consulting</p>
-              <div class="short-line bg-red"></div>
-              <ul class="ul-list">
-                <li>
-                  Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
-                </li>
-                <li>
-                  Managed outside teams and hire  data science experts within hours
-                </li>
-                <li>
-                  Innovative task based pricing
-                </li>
-              </ul>
-              <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd" style="position: absolute;bottom: 0;margin-bottom:13px;margin-left:20%">Know More</a>
-    </div>
-    </div>
+                <div class="inner-container">
+                  <p class="title">AI Consulting</p>
+                  <div class="short-line bg-red"></div>
+                  <ul class="ul-list">
+                    <li>
+                      Covers all your needs like development and implementation of project, data extraction, data preparation, data labelling, data harmonization and AI powered predictive analytics
+                    </li>
+                    <li>
+                      Managed outside teams and hire  data science experts within hours
+                    </li>
+                    <li>
+                      Innovative task based pricing
+                    </li>
+                  </ul>
+                    <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
+                </div>
+            </div>
           </div>
 
         </div>
@@ -428,22 +424,20 @@
     <!------------------------ Features end --------------------->
 
     <!------------------------ why needed start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
       <div class="container">
         
-        <div class="row align-items-center">
-          <div class="col-md-6">
+        <div class="row align-items-lg-center">
+          <div class="col-lg-6">
             <div class="videoWrapper">
               <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
-          <div class="col-md-6">
-
-            <div class="px-4 box-content-left">
+          <div class="col-lg-6">
+            <div class="px-lg-4 box-content-left">
               <div class="title">
-               <div class="text-first red">Why</div>
-               <div class="text-big60">Us?</div>
+               <div class="sec-mainTitle">Why Us?</div>
               </div>
               <div class="short-line bg-red"></div>
                 <p class="text-p">
@@ -457,29 +451,17 @@
     </div>
     <!------------------------ why needed end ----------------------->
 
-    
-
-
     <!------------------------Countdown start --------------------->
     <?php
     include 'change_we_brought.php'
     ?>
     <!------------------------Countdown end --------------------->
 
-   
-
-
-    <!------------------------Automated slide start --------------------->
-     
-    <!------------------------Automated slide end --------------------->
-
-    
-
     <section class="section-padding">
       <div class="container">
         <div class="centerTitle">
           <h3 class="bold text-center red mb-0">We talk in all the languages used by</h3>
-          <div class="text-big60">Manufacturing companies</div>
+          <div class="sec-mainTitle">Manufacturing companies</div>
         </div>
         <br>
         <div class="row">
@@ -548,16 +530,15 @@
     </section>
 
     <!------------------------Client logo slide start --------------------->
-    <?php include 'using-tvarit.php';?>
+    <div class="section-padding">
+        <?php include 'using-tvarit.php';?>
+    </div>
     <!------------------------Client logo slide end --------------------->
 
-    <!------------------------try demo start --------------------->
-
     <!------------------------ Reference start --------------------->
-
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
-            <div class="centerTitle text-big60">
+            <div class="centerTitle sec-mainTitle">
                 ASSOCIATES & PARTNERS
             </div>
             <br>
@@ -611,10 +592,6 @@
         </div>
     </div>
     <!------------------------ Reference end ----------------------->
-
-
-
-    <!------------------------try demo end --------------------->
 
     <!------------------------footer start --------------------->
     <?php
