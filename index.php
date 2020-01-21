@@ -426,7 +426,6 @@
     <!------------------------ why needed start --------------------->
     <div class="section-padding-both">
       <div class="container">
-        
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="videoWrapper">
