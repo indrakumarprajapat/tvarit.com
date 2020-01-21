@@ -391,7 +391,7 @@
                   </ul>
                   <a href="ai-platform"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore"> Know More</a>               
                 </div>
-              </div>
+             </div>
           </div>
 
           <div class="col-lg-4">
@@ -414,7 +414,7 @@
                     </li>
                   </ul>
                     <a href="ai-consulting"  target="_blank" class="btn btn-round btn-red-grd btn-knowmore">Know More</a>
-                </div>
+                </div>              
             </div>
           </div>
 
