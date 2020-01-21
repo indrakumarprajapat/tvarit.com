@@ -308,10 +308,15 @@
 {
     left: -27%;
 }
-
+.ul-list-50
+{
+    display: flex !important;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 .ul-list-50 li
 {
-    width: 46%;
+    width: 50%;
     display: inline-block;
     vertical-align: text-top;
 }
@@ -341,6 +346,7 @@
     transform: translateY(-10px);
     text-transform: uppercase;
 }
+
 .ul-logobox
 {
     margin: 0;
