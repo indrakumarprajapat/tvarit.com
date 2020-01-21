@@ -427,7 +427,7 @@
     <div class="section-padding-both">
       <div class="container">
         
-        <div class="row align-items-lg-center">
+        <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="videoWrapper">
               <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
