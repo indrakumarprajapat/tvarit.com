@@ -284,7 +284,6 @@
                  Industrial Electric Motors</span>
             </div>
             <br>
-            <br>
             <div class="row align-items-lg-center">
                 <div class="col-lg">
                     <div class="AmimgBox">
