@@ -283,7 +283,6 @@
                     Process</span>
             </div>
             <br>
-            <br>
             <div class="row align-items-center">
                 <div class="col-md">
                     <div class="AmimgBox">
