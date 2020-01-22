@@ -52,7 +52,6 @@
         width: 100%;
         border: none;
     }
-
 }
 
 @media (max-width:767px) {
@@ -602,6 +601,15 @@
         margin-bottom: 30px;
     }
 
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
+    }
+
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -751,7 +759,6 @@ and (-webkit-min-device-pixel-ratio: 1) {
         max-width: 480px;
     }
 }
-
 
 @media screen and (min-width: 1900px) { 
 
