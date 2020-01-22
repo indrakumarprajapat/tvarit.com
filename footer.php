@@ -242,7 +242,7 @@
      <footer class="section-padding-both">
          <div class="container">
              <div class="row align-items-md-center">
-                 <div class="col-md-4">
+                 <div class="col-lg-4 order-lg-1 order-2">
                      <div class="ft-about">
                          <h3>We are working for you!</h3>
                          <div class="ftaboutmore">
@@ -293,7 +293,7 @@
                      </div>
 
                  </div>
-                 <div class="col-md-8">
+                 <div class="col-lg-8 order-lg-2 order-1 mb-lg-0 mb-5">
                      <form method="post">
                          <div class="contactBox">
                              <div class="text-contact" id="contact_us">
