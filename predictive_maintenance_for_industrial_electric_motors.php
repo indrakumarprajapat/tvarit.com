@@ -280,8 +280,7 @@
         <div class="container">
             <div class="title centerTitle">
                 <span class="innr-sec-mainTitle ai_predictive">Predictive Maintenance for 
-                    <br>
-                 Industrial Electric Motors</span>
+                    <br>Industrial Electric Motors</span>
             </div>
             <br>
             <br>
