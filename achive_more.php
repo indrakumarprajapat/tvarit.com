@@ -60,6 +60,7 @@
      include 'header.php';
      ?>
     <!------------------------ main menu end ------------------------>
+
     <!------------------------ header start ------------------------->
     <header class="headerBg bgSizeCover achivemoreBg">
         <div class="container">
@@ -374,14 +375,19 @@
     ?>
     <!------------------------Countdown end --------------------->
 
+    <!------------------------Automated slide start --------------------->
+    <?php 
+                include 'change_we_bring.php';
+                ?>
+    <!------------------------Automated slide end --------------------->
 
     <!------------------------ tvarit start --------------------->
-    <div class="section-padding">
+    <div class="section-padding-both">
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="sec-mainTitle">Tv<span class="red">a</span>r<span
-                                class="red">i</span>t The Team</div>
+                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
+                                class="color">i</span>t</span> The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -394,12 +400,12 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <div class="section-padding">
-        <?php 
-            include 'using-tvarit.php';
-        ?>
-    </div>
+    <?php 
+                include 'using-tvarit.php';
+                ?>
     <!------------------------Client logo slide end --------------------->
+
+    <!------------------------try demo start --------------------->
 
     <!------------------------try demo end --------------------->
 
