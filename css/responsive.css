@@ -52,7 +52,6 @@
         width: 100%;
         border: none;
     }
-
 }
 
 @media (max-width:767px) {
@@ -582,13 +581,24 @@
         margin: auto;
         font-weight: 700;
     }
-    .macbook-position {
+
+   .macbook-position {
         height: 270px;
         max-width: 430px !important;
         position: relative;
         right: 0;
-        margin-bottom: 60px !important;
+        margin-bottom: 30px !important;
         margin: auto;
+        margin-top: 50px;
+    }
+
+   
+    .box-content-left *,.box-content-right * {
+        text-align: left;
+    }
+
+    .AmimgBox {
+        margin-bottom: 30px;
     }
 
    
@@ -691,18 +701,18 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
     .macbook-sec {
         margin-bottom: 60px;
-        padding-top: 100px !important;
     }
     .flag {
         width: 40px;
     }
     .macbook-position {
-        height: 146px;
+        height: 143px;
         max-width: 260px !important;
         position: relative;
         right: 0;
-        margin-bottom: 60px !important;
+        margin-bottom: 20px !important;
         margin: auto;
+        margin-top: 30px;
     }
     .macbook-wrapper .macbook-lapi {
         left: -23.8%;
@@ -740,7 +750,15 @@ and (-webkit-min-device-pixel-ratio: 1) {
     }
 }
 
-
+@media (min-width: 1024px) and (max-width: 1290px) and (orientation: landscape) {
+    .macbook-position {
+        right: 10%;
+        top: 20%;
+        width: 100%;
+        height: 290px;
+        max-width: 480px;
+    }
+}
 
 @media screen and (min-width: 1900px) { 
 
@@ -803,3 +821,48 @@ and (-webkit-min-device-pixel-ratio: 1) {
     {
         padding-bottom: 50px;
     }
+    .ul-list-bullet li
+    {
+        padding-left: 30px;
+    }
+    .ul-list-bullet li:after {
+        top: 12px;
+        width: 12px;
+        height: 12px;
+        border-radius: 12px;
+    }
+
+    .white-box-shadow {
+        padding: 50px;
+    }
+
+    .macbook-position
+    {
+        top: 20%;
+        width: 100%;
+        height: 580px;
+        max-width: 980px;
+    }
+    .short-line {
+        width: 180px;
+    }
+    .timelineSteps-warpper .line-left:before {
+        right: -25%;
+    }
+    .timelineSteps-warpper .line-right:before {
+        left: -25%;
+    }
+    .timelineSteps-warpper .line-right:before, .timelineSteps-warpper .line-left:before {
+        width: 35px;
+        height: 35px;
+    }
+    .Advantages-sec .icon {
+        width: 200px;
+        height: 200px;
+        border-radius: 50px;
+        margin-bottom: 50px;
+    }
+    .featureBox .icon img {
+        height: 100px;
+    }
+}
