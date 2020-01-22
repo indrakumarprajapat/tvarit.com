@@ -931,4 +931,8 @@ and (-webkit-min-device-pixel-ratio: 1) {
     {
         stroke-width: 10;
     }
+    .svg-total-line line:nth-child(odd)
+    {
+        stroke-width: 25px;
+    }
 }

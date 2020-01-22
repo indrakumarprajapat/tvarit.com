@@ -2598,6 +2598,7 @@ span.text-big60.red.fw-300.ai_predictive {
 {
     stroke: var(--dark-color);
     stroke-width: 5;
+    animation: dash 2s infinite linear;
 }
 .achieveInfographic .ul-list-bullet li
 {
@@ -2606,4 +2607,18 @@ span.text-big60.red.fw-300.ai_predictive {
 .svg-lg,.svg-xl,.svg-md
 {
     display: none;
+}
+
+.svg-total-line line:nth-child(odd)
+{
+    stroke-width: 15px;
+    stroke: var(--primary);
+}
+@keyframes dash {
+  to {
+    stroke-dashoffset: 10;
+  }
+  from {
+      stroke-dashoffset:200;
+  }
 }
