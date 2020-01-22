@@ -107,50 +107,55 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
-            <div class="row">
-                <div class="col">
-                    <div class="menuQuote">
-                        <div class="textBig">AI Solutions<span class="red">.</span></div>
-                        <!-- <p class="text-normal"> ..... </p> -->
-                    </div>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li>
-                            <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
-                                OEE for Steel and Metal Manufacturing companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
-                                Maintenance for Industrial Electric Motors</a>
-                        </li>
-                        <li>
-                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
-                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
-                                Companies</a>
-                        </li>
-                        <li>
-                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
-                                Quality for Die-casting Machines</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col">
-                    <ul class="ul-sub-menu">
-                        <li style="text-align: center;">
-                            <a href="achive_more" class="sub-Link"
-                                style="padding-left:0px; color:red; align-item: center;">
-                                <img class="ai_solutions_img" src="./img/plus_ai.png"
-                                    alt="Achieve More Tvarit AI Solutions" />
-                                <div class="bold text-big20 tvarit-black">
-                                    Achieve More Tvarit AI Solutions
+                          <div class="row">
+                              <div class="col-md-4 col">
+                                  <div class="menuQuote">
+                                      <div class="textBig">AI Solutions<span class="red">.</span></div>
+                                      <!-- <p class="text-normal"> ..... </p> -->
+                                  </div>
+                                  </div>
+                                  <div class="col-md-4 col">
+                                  <ul class="ul-sub-menu">
+                                  <li>
+                                  <a href="optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize OEE for Steel and Metal Manufacturing companies</a>
+                                  </li>
+                                        <li>
+                                            <a href="predictive_maintenance_for_industrial_electric_motors" class="sub-Link">Predictive
+                                                Maintenance for Industrial Electric Motors</a>
+                                        </li>
+
+                                    </ul>
                                 </div>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
+                                <div class="col-md-4 col">
+                                     <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="ai_based_production_planning_solution_for_cable_manufacturing_companies"
+                                                class="sub-Link">AI Based Production Planning Solution for Cable Manufacturing
+                                                Companies</a>
+                                        </li>
+                                        <li>
+                                            <a href="predictive_quality_for_die-casting_machines" class="sub-Link">Predictive
+                                                Quality for Die-casting Machines</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row achivemore-menu">
+                                <div class="col-md-8 col">
+                                    <ul class="ul-sub-menu">
+                                        <li>
+                                            <a href="achive_more" class="sub-Link">
+                                                <img class="ai_solutions_img" src="./img/plus_ai.png"
+                                                    alt="Achieve More Tvarit AI Solutions" />
+                                                <div class="bold tvarit-black">
+                                                    Achieve More Tvarit AI Solutions
+                                                </div>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="ai-platform">AI Platform</a>
@@ -335,14 +340,14 @@
     <!------------------------ Features start --------------------->
     <div class="section-padding" id="downClick">
       <div class="container">
-        <div class="centerTitle text-big60">
-          we  <span class="red fw-900">offer</span>
+        <div class="centerTitle sec-mainTitle">
+          we offer
         </div>
         
         <br>
 
         <div class="row justify-content-center weOfferBox">
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div  class="featureBox">
               <div class="icon" >
                 <img src="img/ai-solution-1.png" >
@@ -367,7 +372,7 @@
           </div>
          
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div class="featureBox">
               <div class="icon">
                 <img src="img/ai-platform-1.png">
@@ -391,7 +396,7 @@
               </div>
           </div>
 
-          <div class="col-md-4">
+          <div class="col-lg-4">
             <div href="ai-consulting"  target="_blank" class="featureBox">
               <div class="icon">
                 <img src="img/ai-consulting-1.png" >
@@ -425,17 +430,17 @@
     <div class="section-padding-both">
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-md-6">
+          <div class="col-lg-6">
             <div class="videoWrapper">
               <iframe  class="videoFrame" src="https://www.youtube.com/embed/QVLXPFi16n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
           </div>
 
-          <div class="col-md-6">
+          <div class="col-lg-6">
 
             <div class="px-4 box-content-left">
               <div class="title">
-               <div class="text-big60"><span class="red">Why</span> Us?</div>
+               <div class="sec-mainTitle">Why Us?</div>
               </div>
               <div class="short-line bg-red"></div>
                 <p class="text-p">
@@ -459,7 +464,7 @@
       <div class="container">
         <div class="centerTitle">
           <h3 class="bold text-center red mb-2">We talk in all the languages used by</h3>
-          <div class="text-big60">Manufacturing companies</div>
+          <div class="sec-mainTitle">Manufacturing companies</div>
         </div>
         <br>
         <div class="row">
@@ -528,16 +533,18 @@
     </section>
 
     <!------------------------Client logo slide start --------------------->
-    <?php include 'using-tvarit.php';?>
+    <div class="section-padding">
+        <?php include 'using-tvarit.php';?>
+    </div>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
 
     <!------------------------ Reference start --------------------->
 
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
-            <div class="centerTitle text-big60">
+            <div class="centerTitle sec-mainTitle">
                 ASSOCIATES & PARTNERS
             </div>
             <br>
