@@ -92,6 +92,31 @@
          }
      });
      </script>
+     <script type="text/javascript">
+    function WriteCookie() {
+        if (document.myform.customer.value == "") {
+            return;
+        }
+        cookievalue = escape(document.myform.customer.value) + ";";
+        document.cookie = "name=" + cookievalue;
+    }
+
+    function ReadCookie() {
+        document.getElementById('cookieDiv').style.visibility = 'hidden';
+        var allcookies = document.cookie;
+        cookiearray = allcookies.split(';');
+        if (cookiearray.length !== 0) {
+            document.getElementById('cookieDiv').style.visibility = 'hidden';
+        } else {
+            document.getElementById('cookieDiv').style.visibility = 'visible';
+        }
+        for (var i = 0; i < cookiearray.length; i++) {
+            name = cookiearray[i].split('=')[0];
+            value = cookiearray[i].split('=')[1];
+        }
+        $(".se-pre-con").fadeOut("slow");
+    }
+    </script>
      <style>
      #snackbar {
          visibility: hidden;

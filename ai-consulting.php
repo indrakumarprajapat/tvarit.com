@@ -34,7 +34,6 @@
 
 </head>
 
-<body>
     <!------------------------ main menu start ---------------------->
     <?php 
      include 'header.php';

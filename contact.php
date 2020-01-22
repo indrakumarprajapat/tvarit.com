@@ -145,9 +145,6 @@ $("#btn").live("click",function(){
         
 </head>
 
-    <body>
-  <script type="text/javascript" src="https://secure.perk0mean.com/js/173652.js" ></script>
-<noscript><img alt="" src="https://secure.perk0mean.com/173652.png" style="display:none;" /></noscript>
        <!------------------------ main menu start ---------------------->
        <?php 
      include 'header.php';
