@@ -535,12 +535,12 @@
 
 
     <!------------------------ tvarit start --------------------->
-    <div class="section-padding-both">
+    <div class="section-padding">
         <div class="container">
             <div class="white-box-shadow">
                 <div class="centerTitle">
-                    <div class="text-big60"><span class="tvarit-black">Tv<span class="color">a</span>r<span
-                                class="color">i</span>t</span> The Team</div>
+                    <div class="sec-mainTitle">Tv<span class="red">a</span>r<span
+                                class="red">i</span>t The Team</div>
                 </div>
 
                 <div class="centerPharseContent text-p">
@@ -553,12 +553,12 @@
     <!------------------------ tvarit end ----------------------->
 
     <!------------------------Client logo slide start --------------------->
-    <?php 
-                include 'using-tvarit.php';
-                ?>
+    <div class="section-padding">
+        <?php 
+            include 'using-tvarit.php';
+        ?>
+    </div>
     <!------------------------Client logo slide end --------------------->
-
-    <!------------------------try demo start --------------------->
 
     <!------------------------try demo end --------------------->
 
