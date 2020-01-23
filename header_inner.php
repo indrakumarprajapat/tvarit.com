@@ -11,7 +11,7 @@
             </a>
 
             <div class="navbar-collapse" id="navbarText">
-                <a href="javascript://" class="menuclose d-block d-md-none">
+                <a href="javascript://" class="menuclose d-block d-lg-none">
                     <i class="fas fa-arrow-right"></i>
                 </a>
                 <ul class="navbar-nav ml-auto">
@@ -22,13 +22,13 @@
                         <a class="nav-link" href="#">AI Solutions</a>
                         <div class="submenu-div">
                             <div class="row">
-                                <div class="col-md-4 col">
+                                <div class="col-lg-4 col">
                                     <div class="menuQuote">
                                         <div class="textBig">AI Solutions<span class="red">.</span></div>
                                         <!-- <p class="text-normal"> ..... </p> -->
                                     </div>
                                 </div>
-                                <div class="col-md-4 col">
+                                <div class="col-lg-4 col">
                                     <ul class="ul-sub-menu">
                                         <li>
                                             <a href="../optimize_oee_for_steel_and_metal_manufacturing_companies" class="sub-Link">Optimize
@@ -41,7 +41,7 @@
                                        
                                     </ul>
                                 </div>
-                                <div class="col-md-4 col">
+                                <div class="col-lg-4 col">
                                      <ul class="ul-sub-menu">
                                         <li>
                                             <a href="../ai_based_production_planning_solution_for_cable_manufacturing_companies"
@@ -56,7 +56,7 @@
                                 </div>
                             </div>
                             <div class="row achivemore-menu">
-                                <div class="col-md-8 col">
+                                <div class="col-lg-8 col">
                                     <ul class="ul-sub-menu">
                                         <li>
                                             <a href="../achive_more" class="sub-Link">
@@ -102,14 +102,14 @@
                         <a class="nav-link" href="#">More</a>
                         <div class="submenu-div">
                             <div class="row">
-                                <div class="col">
+                                <div class="col-lg-4">
                                     <div class="menuQuote">
                                          <div class="textBig">More<span class="red">.</span></div>
                                         <!-- <p class="text-normal"></p> -->
                                     </div>
                                 </div>
-                                <div class="col d-flex">
-                                    <ul class="ul-sub-menu">
+                                <div class="col-lg-3 d-flex">
+                                    <ul class="ul-sub-menu sub-300">
                                         <li>
                                             <a href="../about#Vision" class="sub-Link">About Us</a>
                                         </li>
@@ -124,8 +124,8 @@
                                         </li>
                                     </ul>
                                 </div>
-                                <div class="col">
-                                    <ul class="ul-sub-menu">
+                                <div class="col-lg-5">
+                                    <ul class="ul-sub-menu sub-300">
                                         <li>
                                             <a href="../whitepapers" class="sub-Link">White Paper</a>
                                         </li>
