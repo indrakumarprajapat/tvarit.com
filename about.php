@@ -444,8 +444,8 @@
 <!------------------------ CONSULTING start --------------------->
 <div class="section-padding">
         <div class="container">
-        <div class="text-center">
-                <div class="title">
+        <div class="">
+                <div class="title text-center">
                     <div class="text-big60">We are proud of what <br> we have achieved</div>
                     <div class="short-line mx-auto bg-red"></div>
                 </div>

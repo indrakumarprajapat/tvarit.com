@@ -52,6 +52,10 @@
         width: 100%;
         border: none;
     }
+    .countingNumBox .icon img {
+        max-width: 40px !important;
+        margin-bottom: 10px !important;
+    }
 }
 
 @media (max-width:767px) {
@@ -277,6 +281,11 @@
     
     .countingNumBox .icon {
         margin-right: 0;
+    }
+    .countingNumBox .icon img
+    {
+        max-width: 60px;
+        margin-bottom: 20px;
     }
     .countingNumBox {
         display: block;
