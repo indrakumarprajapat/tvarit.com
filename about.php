@@ -66,7 +66,7 @@
     <!------------------------ header start ------------------------->
     <header class="headerBg aboutBg" id="Vision">
         <div class="container">
-            <a href="#Team" class="hdrscrollArrow"><i class="icon ion-ios-arrow-dropdown"></i></a>
+            <a href="#Team" class="hdrscrollArrow black_scroll"><i class="icon ion-ios-arrow-dropdown"></i></a>
             <div class="row align-items-center">
                 <div class="col-md-6" style="margin-top:45px;">
                     <div class="typography">
@@ -435,8 +435,6 @@
                 </div>
             </div> -->
             <!-------- Custom Divider ------------>
-
-    <br><br>
         </div>
     </div>
    
@@ -537,11 +535,10 @@
                 
     <!------------------------Countdown end --------------------->
 
-     
-
-
     <!------------------------Client logo slide start --------------------->
-    <?php include 'using-tvarit.php';?>
+    <div class="section-padding">
+    <?php include 'using-tvarit.php'; ?>
+    </div>
     <!------------------------Client logo slide end --------------------->
 
     <!------------------------try demo start --------------------->
